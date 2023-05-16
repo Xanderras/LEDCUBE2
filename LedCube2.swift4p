@@ -1,0 +1,5 @@
+files:
+- main.swift
+settings:
+  MISSING_RUNTIME_SHOW_WARNING: 'yes'
+  INCLUDE_PRINTF_FLT: 'yes'

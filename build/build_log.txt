@@ -1,0 +1,4 @@
+main.swift:137:9: warning: immutable value 'i' was never used; consider replacing with '_' or removing it
+    for i in 0...6 {
+        ^
+        _

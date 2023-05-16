@@ -1,0 +1,3 @@
+{
+"main.swift":{"llvm-ir":"build/main.ll","llvm-bc":"build/main.bc","raw-sil":"build/main.sil","sil":"build/main.csil"},
+}
